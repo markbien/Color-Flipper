@@ -43,10 +43,11 @@ nav {
   padding: 0;
 }
 
-.nav-links > li > a {
+.nav-links > li {
   text-decoration: none;
   color: black;
   font-size: 1.3rem;
+  cursor: pointer;
 }
 
 h2 {
